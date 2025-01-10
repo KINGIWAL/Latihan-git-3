@@ -1,1 +1,1 @@
-console.log("HELLO WORLD");
+console.log("aku suka kamu");
