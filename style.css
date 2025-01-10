@@ -6,8 +6,9 @@ p{
     color: midnightblue;
 }
 li{
-    text-decoration: none;
-    color: aqua;
+
+    color: teal;
+    text-decoration: dotted;
 }
 
 
